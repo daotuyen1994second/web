@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmedicine"]=self["webpackChunkmedicine"]||[]).push([[249],{6249:function(e,n,u){u.r(n),u.d(n,{default:function(){return s}});var l=u(3396),r=u(7139);const t=(0,l._)("p",null," he,llo",-1);function c(e,n,u,c,i,o){return(0,l.wg)(),(0,l.iD)(l.HY,null,[t,(0,l._)("p",null,(0,r.zw)(this.$route.query.name1),1)],64)}var i={name:"HelloWorld",mounted(){}},o=u(89);const a=(0,o.Z)(i,[["render",c]]);var s=a}}]);
+//# sourceMappingURL=249.a021970d.js.map

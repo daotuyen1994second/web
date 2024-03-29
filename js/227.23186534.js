@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmedicine"]=self["webpackChunkmedicine"]||[]).push([[227],{4227:function(n,e,t){t.r(e),t.d(e,{default:function(){return d}});var r=t(3396);function u(n,e,t,u,a,c){return(0,r.wg)(),(0,r.iD)("p",null,"SAdsad")}var a={name:"ContactList",data(){return{}}},c=t(89);const i=(0,c.Z)(a,[["render",u]]);var d=i}}]);
+//# sourceMappingURL=227.23186534.js.map
