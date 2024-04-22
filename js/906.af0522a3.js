@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkmedicine"]=self["webpackChunkmedicine"]||[]).push([[906],{2906:function(e,n,r){r.r(n),r.d(n,{default:function(){return f}});var t=r(3396);function u(e,n){return(0,t.wg)(),(0,t.iD)("p",null,"tet page")}var c=r(89);const i={},a=(0,c.Z)(i,[["render",u]]);var f=a}}]);

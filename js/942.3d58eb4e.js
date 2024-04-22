@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkmedicine"]=self["webpackChunkmedicine"]||[]).push([[942],{3942:function(e,c,i){i.r(c)}}]);
